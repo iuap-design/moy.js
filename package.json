@@ -1,7 +1,7 @@
 {
-  "name": "moy",
+  "name": "moy.js",
   "version": "1.0.0",
-  "description": "moy.js",
+  "description": "Simple, MVVM framework based on Knockout",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -19,7 +19,7 @@
     "mvvm",
     "ko"
   ],
-  "author": "yonyou FED",
+  "author": "guoyongfeng",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iuap-design/moy.js/issues"
