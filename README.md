@@ -1,9 +1,9 @@
 # Moy.js
 
-[![npm version](https://img.shields.io/npm/v/tinper-mox.svg)](https://www.npmjs.com/package/tinper-mox)
-[![Build Status](https://img.shields.io/travis/iuap-design/tinper-mox/master.svg)](https://travis-ci.org/iuap-design/tinper-mox)
-[![devDependency Status](https://img.shields.io/david/dev/iuap-design/tinper-mox.svg)](https://david-dm.org/iuap-design/tinper-mox#info=devDependencies)
-[![NPM downloads](http://img.shields.io/npm/dm/tinper-mox.svg?style=flat)](https://npmjs.org/package/tinper-mox)
+[![npm version](https://img.shields.io/npm/v/moy.js.svg)](https://www.npmjs.com/package/moy.js)
+[![Build Status](https://img.shields.io/travis/iuap-design/moy.js/master.svg)](https://travis-ci.org/iuap-design/moy.js)
+[![devDependency Status](https://img.shields.io/david/dev/iuap-design/moy.js.svg)](https://david-dm.org/iuap-design/moy.js#info=devDependencies)
+[![NPM downloads](http://img.shields.io/npm/dm/moy.js.svg?style=flat)](https://npmjs.org/package/moy.js)
 
 
 `Mox.js` 在 `Knockout.js` 的基础上进一步的封装，提供 `createApp()、createModel()、use()` 等 `API`，并实现了基于 `u-meta` 的前端组件化机制，结合了 MVVM 架构和组件化开发的多重优点，快速提高开发效率，提升开发体验。
