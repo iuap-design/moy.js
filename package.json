@@ -1,0 +1,27 @@
+{
+  "name": "moy",
+  "version": "1.0.0",
+  "description": "moy.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/moy.js.git"
+  },
+  "keywords": [
+    "moy.js",
+    "mvvm",
+    "ko"
+  ],
+  "author": "yonyou FED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuap-design/moy.js/issues"
+  },
+  "homepage": "https://github.com/iuap-design/moy.js#readme"
+}
